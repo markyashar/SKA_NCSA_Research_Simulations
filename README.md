@@ -24,20 +24,11 @@ Supervisor: Dr. Athol Kemball, Associate Professor of Astronomy, Center Affiliat
 
 ---------------------
 
-Square Kilometer Array processing and development 
-02/2009-02/2012
-National Center for Supercomputing Applications, University of Illinois Urbana-Champaign
-Research and development in Square Kilometer Array calibration and processing algorithms and computing with a focus on cost
-and feasibility studies of radio imaging algorithms and direction- dependent calibration errors with the Technology 
-Development Project (TDP) Calibration Processing Group (CPG) at UIUC (http://rai.ncsa.uiuc.edu/SKA/RAI_Projects_SKA_CPG.html).
+
+I carried out Research and development in Square Kilometer Array calibration and processing algorithms and computing with a focus on cost and feasibility studies of radio imaging algorithms and direction- dependent calibration errors with the Technology Development Project (TDP) Calibration Processing Group (CPG) at UIUC (http://rai.ncsa.uiuc.edu/SKA/RAI_Projects_SKA_CPG.html).
 This work  has included an evaluation of the computational costs of  non-deconvolved images of a number of existing radio
 interferometry algorithms used to deal with non-coplanar baselines in wide-field radio interferometry (Memo: “Computational
 Costs of Radio Imaging Algorithms Dealing with the Non-Coplanar Baselines Effect: I” with A. Kemball
-(http://www.astro.kemball.net/Publish/files/ska_tdp_memos/cpg_memo3_v1.1.pdf))). My work with the SKA project has also involved extensive use of Python and C++ and the use and implementation of 
-numerical and imaging simulations in conjunction with the use of the Meqtrees software package (http://www.astron.nl/meqwiki)
-and the CASA software package to address cost, feasibility, dynamic range, and image fidelity issues related to calibration 
-and processing for SKA and the dependence of these issues on certain key antenna and feed design parameters such as sidelobe 
-level and mount type. Numerical simulations have included Monte Carlo simulations (written in Python) to test equations 
-derived by A. Kemball.
+(http://www.astro.kemball.net/Publish/files/ska_tdp_memos/cpg_memo3_v1.1.pdf))). My work with the SKA project has also involved extensive use of Python and C++ and the use and implementation of numerical and imaging simulations in conjunction with the use of the Meqtrees software package (http://www.astron.nl/meqwiki) and the CASA software package to address cost, feasibility, dynamic range, and image fidelity issues related to calibration  and processing for SKA and the dependence of these issues on certain key antenna and feed design parameters such as sidelobe level and mount type. Numerical simulations have included Monte Carlo simulations (written in Python) to test equations  derived by A. Kemball.
 Supervisor: Professor Athol Kemball, UIUC
 
