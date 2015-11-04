@@ -9,11 +9,17 @@ the supervision of Athol Kemball.
 Postdoctoral Research Associate, University of Illinois Urbana-Champaign (UIUC), National Center for Supercomputing 
 Applications (NCSA), Champaign, Illinois
 Supervisor: Dr. Athol Kemball, Associate Professor of Astronomy, Center Affiliate of NCSA
+
 •	Conducted research and development in Square Kilometer Array (SKA) calibration and processing algorithms and computing with a focus on cost and feasibility studies of radio imaging algorithms and direction- dependent calibration errors with the Technology Development Project (TDP) Calibration Processing Group (CPG) at UIUC.
+
 •	Evaluated the computational costs of non-deconvolved images of a number of existing radio interferometry algorithms used to deal with non-coplanar baselines in wide-field radio interferometry and co-authored a corresponding internal technical report (“Computational Costs of Radio Imaging Algorithms Dealing with the Non-Coplanar Baselines Effect: I”) with A. Kemball.
+
 •	Implemented and utilized numerical and imaging simulations in conjunction with the use of the Meqtrees software package and the CASA software package (written mostly in C++) to address cost, feasibility, dynamic range, and image fidelity issues related to calibration and processing for SKA and the dependence of these issues on certain key antenna and feed design parameters such as sidelobe level and mount type. Numerical simulations included Monte Carlo simulations (written in Python) to test analytical expressions.
+
 •	Installed, built, compiled, configured and set up C++ software development environment for CASA (including use of gdb, ddd, and Eclipse C++ debuggers) and all its dependencies, and made modifications to C++ code as necessary.
+
 •	Installed, configured, and maintained Java-based Liferay Portal software bundled with Apache Tomcat application server and connected to a MYSQL database  on  a Linux machine.
+
 •	Installed, configured, maintained, and utilized VMware Workstation on a host Linux system.
 
 ---------------------
